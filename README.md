@@ -1,6 +1,7 @@
 # mk-orpon.github.io
 Portfolio of professional projects, internships, trainings, and volunteer works
 ## Experiences
+- [FISHNET Project – UTTARAN (Coastal Fisheries Research)](projects/fishnet-project-uttaran/README.md)
 - [SMART Project – YPSA (Baseline Survey)](projects/smart-project-ypsa/README.md)
 - [RMTP Endline Evaluation – University of Chittagong](projects/rmtp-endline-evaluation/README.md)
 - [BIIHR NextGen Research Fellowship 2024 – Bangladesh Institute of Innovative Health Research](projects/biihr-nextgen-research-fellowship/README.md)
