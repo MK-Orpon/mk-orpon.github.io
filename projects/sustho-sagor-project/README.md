@@ -34,7 +34,7 @@ Over five years, Sustho Sagor will enhance management effectiveness in the **Swa
 - Supported **40-day boat-based offshore surveys**  
 - Assisted in cetacean distance sampling and species observation  
 - Documented fishing gears, catch composition, and bycatch  
-- Observed fisheries activities along ~3,000 km transect lines  
+- Observed fisheries activities along ~4,000 km transect lines  
 - Ensured standardized data collection and field protocols  
 - Supported field operations and research documentation  
 
@@ -58,11 +58,6 @@ Over five years, Sustho Sagor will enhance management effectiveness in the **Swa
 
 ---
 
-## Ethical Statement
-
-All field activities were conducted following **ethical research standards**, ensuring responsible data use, safety protocols, and compliance with conservation research guidelines.
-
----
 
 ## Implementing & Supporting Partners
 
